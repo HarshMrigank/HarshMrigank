@@ -1,182 +1,186 @@
+
 <div align="center">
 
-  <!-- Animated Welcome Header -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&color=0891B2&center=true&vCenter=true&width=600&height=80&lines=Hello%2C+World!+👋;Welcome+to+my+GitHub+Profile!;I%27m+Harsh+Mrigank;A+Multipotentialite+Developer;Building+with+Passion+💻" alt="Typing animation" />
-  
-  <!-- Animated Coding GIF -->
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding animation" />
-  
-  <!-- Glowing Divider -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&animation=fadeIn" />
-  
+<img
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=800&color=38BDF8&center=true&vCenter=true&width=820&height=75&lines=Hello%2C+World!+%F0%9F%91%8B;Welcome+to+my+GitHub+Profile;I%27m+Harsh+Mrigank;Multipotentialite+Developer;Building+with+Focus+and+Depth+%F0%9F%92%BB"
+  alt="Typing animation"
+/>
+
+<img
+  src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
+  width="360"
+  alt="Coding animation"
+/>
+
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=header"
+/>
+
 </div>
 
 ## 🚀 About Me
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm **Harsh Mrigank** - a passionate developer who thrives on exploring multiple technologies and domains!
+Hi 👋 I'm **Harsh Mrigank**, a developer driven by curiosity, depth, and long-term mastery.
 
-> 🌟 **"Jack of all trades, master of some... but better than master of one"** - My take on being a multipotentialite!
+> 🌟 *Jack of all trades, master of some — better than master of one.*
 
-* 🌍 **Based in**: Kolkata, India
-* 🎯 **Currently focused on**: Full-stack development & cloud technologies
-* 🖥️ **Portfolio**: [HM@netlify](http://mrigankharshportfolio.netlify.app/)
-* 📫 **Reach me at**: [mrigankharsh@gmail.com](mailto:mrigankharsh@gmail.com)
-* 💭 **Ask me about**: Multipotentialite mindset, tech stack decisions, or anything coding!
+- 🌍 **Location**: Kolkata, India  
+- 🎯 **Focus**: Full-stack development & cloud  
+- 🖥️ **Portfolio**: [HM@Netlify](http://mrigankharshportfolio.netlify.app/)  
+- 📫 **Email**: [mrigankharsh@gmail.com](mailto:mrigankharsh@gmail.com)  
+- 💭 **Ask me about**: Systems, compilers, web architecture, multipotentialite mindset  
 
 <div align="center">
-  
-  <!-- Visitor Counter -->
-  <img src="https://komarev.com/ghpvc/?username=HarshMrigank&label=Profile%20Views&color=0891b2&style=for-the-badge" alt="visitor counter" />
-  
-  <!-- GitHub Trophy -->
-  <img src="https://github-profile-trophy.vercel.app/?username=HarshMrigank&theme=onedark&no-frame=true&row=2&column=4" alt="GitHub trophies" />
-  
+
+<img src="https://komarev.com/ghpvc/?username=HarshMrigank&label=Profile%20Views&color=38BDF8&style=for-the-badge"/>
+
+
 </div>
+
+---
 
 ## 🛠️ Tech Stack
 
-### **Languages & Frameworks**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,java,python,js,ts,react,nextjs,nodejs,express,fastapi,html,css,tailwind" />
-</p>
+### Languages & Frameworks
+<img src="https://skillicons.dev/icons?i=cpp,java,python,js,ts,react,nextjs,nodejs,express,fastapi,html,css,tailwind" />
 
-### **Databases & Cloud**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,supabase,oracle,gcp,kubernetes,linux,ubuntu,render" />
-</p>
+### Databases & Cloud
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,supabase,gcp,kubernetes,linux,ubuntu,render" />
 
-### **Tools & Others**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,vscode,figma,docker" />
-</p>
+### Tools
+<img src="https://skillicons.dev/icons?i=git,vscode,figma,docker" />
 
-## 📊 Programming Language Distribution
+---
+
+## 📊 Programming Focus
 
 <details>
 <summary><b>Click to expand</b></summary>
-<br/>
 
 ```text
 🌐 Full-Stack Development
-├── Frontend:     React.js, Next.js, TypeScript, Tailwind
-├── Backend:      Node.js, Express, FastAPI, Python
+├── Frontend:     React, Next.js, TypeScript, Tailwind
+├── Backend:      Node.js, Express, FastAPI
 ├── Databases:    MongoDB, PostgreSQL, MySQL, Oracle
 └── DevOps:       Docker, Kubernetes, GCP, Render
-```
+````
 
 </details>
+
+---
 
 ## 📈 GitHub Analytics
 
 <div align="center">
-  <!-- GitHub Stats Cards -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HarshMrigank&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshMrigank&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
-  
-  <!-- GitHub Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HarshMrigank&theme=radical&hide_border=true&fire=FF0000&currStreakLabel=FF0000" alt="GitHub Streak" />
-  
-  <!-- Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HarshMrigank&theme=react-dark&bg_color=0D1117&hide_border=true&area=true&point=FF0000" alt="Activity Graph" width="100%" />
+<img src="https://komarev.com/ghpvc/?username=HarshMrigank&label=Profile%20Views&color=38BDF8&style=for-the-badge"/>
+<img src="https://github-readme-stats.vercel.app/api?username=HarshMrigank&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+<img src="https://github-profile-trophy.vercel.app/?username=HarshMrigank&theme=tokyonight&no-frame=true&row=1&column=4" />
+<img src="https://github-readme-stats.vercel.app/api?username=HarshMrigank&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+
 </div>
+
+
+<img
+src="https://github-readme-activity-graph.vercel.app/graph?username=HarshMrigank&theme=tokyo-night&hide_border=true"
+/>
+
+</div>
+
+---
 
 ## 🧠 Beyond Code
 
-**Strategic multipotentialite with a focus on long-term mastery**
+**Strategic multipotentialite focused on long-term mastery**
 
-*   **Multipotentialite mindset** – Draw connections across domains to create novel solutions.
-*   **Calm & strategic** – Prefer deliberate planning and systematic execution over reactive coding.
-*   **Depth over shortcuts** – Invest in fundamental understanding for sustainable skill growth.
-*   **Cross-domain curiosity** – Explore adjacent fields (systems, design, architecture) to inform better engineering decisions.
-*   **Competitive with self** – Focus on personal iteration and measured progress.
+* Multipotentialite mindset — connecting ideas across domains
+* Calm, deliberate, systems-oriented thinker
+* Depth over shortcuts, fundamentals over hype
+* Competitive with self, consistent over time
 
-> *Mastery is a marathon, not a sprint.*
+> *Mastery compounds quietly.*
+
+---
+
+## 🎯 Extra-Curriculars & Hobbies
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="20%">
+<img src="https://img.shields.io/badge/Chess-000000?style=for-the-badge&logo=lichess&logoColor=white" />
+<br/>
+Strategy & long-term planning
+</td>
+
+<td align="center" width="20%">
+<img src="https://img.shields.io/badge/Music-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
+(Guitar)<br/>
+Rhythm & creative flow
+</td>
+
+<td align="center" width="20%">
+<img src="https://img.shields.io/badge/Cooking-FF6F00?style=for-the-badge&logo=chef&logoColor=white" />
+<br/>
+Technique & experimentation
+</td>
+
+<td align="center" width="20%">
+<img src="https://img.shields.io/badge/Fitness-111827?style=for-the-badge&logo=fitbit&logoColor=white" />
+<br/>
+Discipline & consistency
+</td>
+
+<td align="center" width="20%">
+<img src="https://img.shields.io/badge/Gaming-5865F2?style=for-the-badge&logo=steam&logoColor=white" />
+<br/>
+Execution & problem-solving
+</td>
+</tr>
+</table>
+
+</div>
+
+---
 
 ## 🌟 Featured Projects
 
 <div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <h3 align="center">Coming Soon! 🚧</h3>
-        <p align="center">Awesome project #1</p>
-      </td>
-      <td width="50%">
-        <h3 align="center">Coming Soon! 🚧</h3>
-        <p align="center">Awesome project #2</p>
-      </td>
-    </tr>
-  </table>
+
+| Project        | Description                     |
+| -------------- | ------------------------------- |
+| 🚧 In Progress | Compiler & systems projects     |
+| 🚧 In Progress | Full-stack & cloud applications |
+
 </div>
 
-## 📫 Let's Connect!
+---
+
+## 📫 Let’s Connect
 
 <p align="center">
-  <a href="https://www.github.com/HarshMrigank" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/in/harsh-mrigank-a29584277" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://www.x.com/harshmrigank" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="https://www.dev.to/harsh_mrigank" target="_blank">
-    <img src="https://img.shields.io/badge/DEV-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to" />
-  </a>
-  <a href="http://www.medium.com/@mrigankharsh" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
-  </a>
-  <a href="https://discord.com/users/harsh_mrigank" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-  </a>
+  <a href="https://github.com/HarshMrigank"><img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github"/></a>
+  <a href="https://www.linkedin.com/in/harsh-mrigank-a29584277"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/></a>
+  <a href="https://x.com/harshmrigank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter"/></a>
 </p>
+
+---
 
 ## ✨ Fun Facts
 
 ```js
 const harshMrigank = {
-  pronouns: "he" | "him",
-  code: ["JavaScript", "TypeScript", "Python", "Java", "C++"],
-  askMeAbout: ["web dev", "tech", "multipotentialite mindset"],
-  technologies: {
-    frontend: ["React", "Next.js", "Tailwind CSS"],
-    backend: ["Node.js", "Express", "FastAPI"],
-    databases: ["MongoDB", "PostgreSQL", "MySQL"],
-    devOps: ["Docker", "Kubernetes", "GCP"],
-    tools: ["Git", "VS Code", "Figma"]
-  },
-  currentFocus: "Building impactful full-stack applications",
-  funFact: "I believe the best developers are multipotentialites!"
+  mindset: "Multipotentialite",
+  strengths: ["Strategy", "Consistency", "Depth"],
+  interests: ["Systems", "Chess", "Music", "Cooking"],
+  belief: "Long-term mastery beats short-term hype"
 };
 ```
 
-## ☕ Support My Work
-
+---
+☕ Support My Work
+<div align="center"> <!-- Buy Me a Coffee --> <a href="https://www.buymeacoffee.com/harsh_mrigank" target="_blank"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50" /> </a> <!-- GitHub Sponsors --> <a href="https://github.com/sponsors/HarshMrigank" target="_blank"> <img src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA" alt="GitHub Sponsors" height="50" /> </a> </div><div align="center"> <!-- Footer Animation --> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=fadeIn" /> <!-- Final Message --> <p> <i>✨ Thanks for visiting! Feel free to explore my repositories and get in touch! ✨</i> </p> <!-- Star Animation --> <p> <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40" alt="Star animation" /> <b>Star the repositories you find interesting!</b> <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40" alt="Star animation" /> </p> </div>
 <div align="center">
-  <!-- Buy Me a Coffee -->
-  <a href="https://www.buymeacoffee.com/harsh_mrigank" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50" />
-  </a>
-  <!-- GitHub Sponsors -->
-  <a href="https://github.com/sponsors/HarshMrigank" target="_blank">
-    <img src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA" alt="GitHub Sponsors" height="50" />
-  </a>
-</div>
 
-<div align="center">
-  <!-- Footer Animation -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=fadeIn" />
-  
-  <!-- Final Message -->
-  <p>
-    <i>✨ Thanks for visiting! Feel free to explore my repositories and get in touch! ✨</i>
-  </p>
-  
-  <!-- Star Animation -->
-  <p>
-    <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40" alt="Star animation" />
-    <b>Star the repositories you find interesting!</b>
-    <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40" alt="Star animation" />
-  </p>
-</div>
+
+
