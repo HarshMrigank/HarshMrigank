@@ -1,12 +1,10 @@
 <div align="center">
+
+  <!-- Animated Welcome Header -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&color=0891B2&center=true&vCenter=true&width=600&height=80&lines=Hello%2C+World!+👋;Welcome+to+my+GitHub+Profile!;I%27m+Harsh+Mrigank;A+Multipotentialite+Developer;Building+with+Passion+💻" alt="Typing animation" />
   
   <!-- Animated Coding GIF -->
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding animation" />
-  
-  <!-- Welcome Message -->
-  <h1 align="center">👋 Hello World! Welcome to My GitHub Profile</h1>
-  <h3 align="center">I'm Harsh Mrigank - A Multipotentialite Developer</h3>
-  <h4 align="center">Building with Passion 💻 | Exploring Multiple Technologies 🌟</h4>
   
   <!-- Glowing Divider -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&animation=fadeIn" />
@@ -52,29 +50,91 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
   <img src="https://skillicons.dev/icons?i=git,vscode,figma,docker" />
 </p>
 
-<!-- Programming Stats -->
+## 📊 Programming Language Distribution
+
 <details>
-<summary><b>📊 Programming Language Distribution</b></summary>
+<summary><b>Click to expand</b></summary>
 <br/>
-  
+
 ```text
 🌐 Full-Stack Development
 ├── Frontend:     React.js, Next.js, TypeScript, Tailwind
 ├── Backend:      Node.js, Express, FastAPI, Python
 ├── Databases:    MongoDB, PostgreSQL, MySQL, Oracle
 └── DevOps:       Docker, Kubernetes, GCP, Render
+```
 
-'''
-</details>'''
+</details>
 
-📈 GitHub Analytics
-<div align="center"> <!-- GitHub Stats Cards --> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HarshMrigank&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshMrigank&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" /></div><div align="center"> <!-- GitHub Streak --> <img src="https://github-readme-streak-stats.herokuapp.com/?user=HarshMrigank&theme=radical&hide_border=true&fire=FF0000&currStreakLabel=FF0000" alt="GitHub Streak" /> <!-- Activity Graph --> <img src="https://github-readme-activity-graph.vercel.app/graph?username=HarshMrigank&theme=react-dark&bg_color=0D1117&hide_border=true&area=true&point=FF0000" alt="Activity Graph" width="100%" /></div>
-🌟 Featured Projects
-<!-- You can add your actual project cards here --><div align="center"> <table> <tr> <td width="50%"> <h3 align="center">Coming Soon! 🚧</h3> <p align="center">Awesome project #1</p> </td> <td width="50%"> <h3 align="center">Coming Soon! 🚧</h3> <p align="center">Awesome project #2</p> </td> </tr> </table></div>
-📫 Let's Connect!
-<p align="center"> <a href="https://www.github.com/HarshMrigank" target="_blank"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> </a> <a href="https://www.linkedin.com/in/harsh-mrigank-a29584277" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> <a href="https://www.x.com/harshmrigank" target="_blank"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /> </a> <a href="https://www.dev.to/harsh_mrigank" target="_blank"> <img src="https://img.shields.io/badge/DEV-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to" /> </a> <a href="http://www.medium.com/@mrigankharsh" target="_blank"> <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /> </a> <a href="https://discord.com/users/harsh_mrigank" target="_blank"> <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /> </a> </p>
+## 📈 GitHub Analytics
 
-✨ Fun Facts
+<div align="center">
+  <!-- GitHub Stats Cards -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HarshMrigank&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshMrigank&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
+  
+  <!-- GitHub Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HarshMrigank&theme=radical&hide_border=true&fire=FF0000&currStreakLabel=FF0000" alt="GitHub Streak" />
+  
+  <!-- Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HarshMrigank&theme=react-dark&bg_color=0D1117&hide_border=true&area=true&point=FF0000" alt="Activity Graph" width="100%" />
+</div>
+
+## 🧠 Beyond Code
+
+**Strategic multipotentialite with a focus on long-term mastery**
+
+*   **Multipotentialite mindset** – Draw connections across domains to create novel solutions.
+*   **Calm & strategic** – Prefer deliberate planning and systematic execution over reactive coding.
+*   **Depth over shortcuts** – Invest in fundamental understanding for sustainable skill growth.
+*   **Cross-domain curiosity** – Explore adjacent fields (systems, design, architecture) to inform better engineering decisions.
+*   **Competitive with self** – Focus on personal iteration and measured progress.
+
+> *Mastery is a marathon, not a sprint.*
+
+## 🌟 Featured Projects
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <h3 align="center">Coming Soon! 🚧</h3>
+        <p align="center">Awesome project #1</p>
+      </td>
+      <td width="50%">
+        <h3 align="center">Coming Soon! 🚧</h3>
+        <p align="center">Awesome project #2</p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+## 📫 Let's Connect!
+
+<p align="center">
+  <a href="https://www.github.com/HarshMrigank" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/harsh-mrigank-a29584277" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.x.com/harshmrigank" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://www.dev.to/harsh_mrigank" target="_blank">
+    <img src="https://img.shields.io/badge/DEV-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to" />
+  </a>
+  <a href="http://www.medium.com/@mrigankharsh" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
+  </a>
+  <a href="https://discord.com/users/harsh_mrigank" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+</p>
+
+## ✨ Fun Facts
+
+```js
 const harshMrigank = {
   pronouns: "he" | "him",
   code: ["JavaScript", "TypeScript", "Python", "Java", "C++"],
@@ -89,7 +149,34 @@ const harshMrigank = {
   currentFocus: "Building impactful full-stack applications",
   funFact: "I believe the best developers are multipotentialites!"
 };
+```
 
-☕ Support My Work
-<div align="center"> <!-- Buy Me a Coffee --> <a href="https://www.buymeacoffee.com/harsh_mrigank" target="_blank"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50" /> </a> <!-- GitHub Sponsors --> <a href="https://github.com/sponsors/HarshMrigank" target="_blank"> <img src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA" alt="GitHub Sponsors" height="50" /> </a></div>
-<div align="center"> <!-- Footer Animation --> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=fadeIn" /> <!-- Final Message --> <p> <i>✨ Thanks for visiting! Feel free to explore my repositories and get in touch! ✨</i> </p> <!-- Star Animation --> <p> <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40" alt="Star animation" /> <b>Star the repositories you find interesting!</b> <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40" alt="Star animation" /> </p></div> ```
+## ☕ Support My Work
+
+<div align="center">
+  <!-- Buy Me a Coffee -->
+  <a href="https://www.buymeacoffee.com/harsh_mrigank" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50" />
+  </a>
+  <!-- GitHub Sponsors -->
+  <a href="https://github.com/sponsors/HarshMrigank" target="_blank">
+    <img src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA" alt="GitHub Sponsors" height="50" />
+  </a>
+</div>
+
+<div align="center">
+  <!-- Footer Animation -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=fadeIn" />
+  
+  <!-- Final Message -->
+  <p>
+    <i>✨ Thanks for visiting! Feel free to explore my repositories and get in touch! ✨</i>
+  </p>
+  
+  <!-- Star Animation -->
+  <p>
+    <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40" alt="Star animation" />
+    <b>Star the repositories you find interesting!</b>
+    <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40" alt="Star animation" />
+  </p>
+</div>
