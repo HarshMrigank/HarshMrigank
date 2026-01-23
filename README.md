@@ -75,7 +75,6 @@ Hi 👋 I'm **Harsh Mrigank**, a developer driven by curiosity, depth, and long-
 <img src="https://komarev.com/ghpvc/?username=HarshMrigank&label=Profile%20Views&color=38BDF8&style=for-the-badge"/>
 <img src="https://github-readme-stats.vercel.app/api?username=HarshMrigank&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
 <img src="https://github-profile-trophy.vercel.app/?username=HarshMrigank&theme=tokyonight&no-frame=true&row=1&column=4" />
-<img src="https://github-readme-stats.vercel.app/api?username=HarshMrigank&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
 
 </div>
 
