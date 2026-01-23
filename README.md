@@ -32,7 +32,7 @@ Hi 👋 I'm **Harsh Mrigank**, a developer driven by curiosity, depth, and long-
 
 <div align="center">
 
-<img src="https://img.shields.io/github/watchers/HarshMrigank/REPO_NAME?style=for-the-badge"/>
+<img src="https://img.shields.io/github/watchers/HarshMrigank/HarshMrigank?style=for-the-badge"/>
 
 
 </div>
