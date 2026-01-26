@@ -71,7 +71,8 @@ Hi 👋 I'm **Harsh Mrigank**, a developer driven by curiosity, depth, and long-
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=HarshMrigank&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=HarshMrigank&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com/?user=HarshMrigank&theme=tokyonight" />
+
 </p>
 
 <p align="center">
