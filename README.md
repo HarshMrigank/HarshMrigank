@@ -69,18 +69,14 @@ Hi 👋 I'm **Harsh Mrigank**, a developer driven by curiosity, depth, and long-
 
 ## 📈 GitHub Analytics
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=HarshMrigank&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=HarshMrigank&theme=tokyonight" />
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=HarshMrigank&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=HarshMrigank&theme=tokyonight" />
+</p>
 
-</div>
-
-
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=HarshMrigank&theme=tokyo-night&hide_border=true"
-/>
-
-</div>
+<p align="center">
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=HarshMrigank&theme=tokyo-night" />
+</p>
 
 ---
 
